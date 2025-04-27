@@ -1,0 +1,9 @@
+# everything I want to ignore:
+
+*.png
+*.txt
+*.doc
+*.docx
+*.jpg
+*.png
+/screenshots
